@@ -1,0 +1,13 @@
+weapon,displayedRank,xpPerLevelType,xpPerGeneration,xpIntoCurrentGeneration,minimumCumulativeWeaponXP,maximumXPBeforeNextDisplayedRank
+CAR,G25.2,default,185,8,4448,4454
+R-97,G22.7,default,185,55,3940,3949
+Volt,G2.15,default,185,135,320,329
+Longbow DMR,G2.4,sniper,94,14,108,112
+EVA-8,G2.10,default,185,85,270,279
+SMR,G4.11,default,185,95,650,659
+EPG,G3.15,default,185,135,505,514
+Wingman Elite,G3.6,default,185,45,415,424
+RE-45,G2.8,pistol,94,34,128,132
+Charge Rifle,G13.11,antititan,77,41,965,968
+Thunderbolt,G38.8,antititan,77,29,2878,2881
+Archer,G11.5,antititan,77,17,787,790
