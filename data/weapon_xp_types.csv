@@ -1,0 +1,13 @@
+weapon,aliases,itemRef,xpPerLevelType
+CAR,car,mp_weapon_car,default
+R-97,r97|r-97,mp_weapon_r97,default
+Volt,volt|电能,mp_weapon_hemlok_smg,default
+Longbow DMR,dmr|longbow|longbow dmr,mp_weapon_sniper,sniper
+EVA-8,eva8|eva-8,mp_weapon_shotgun,default
+SMR,smr|sidewinder|响尾蛇,mp_weapon_smr,default
+EPG,epg|能源炮,mp_weapon_epg,default
+Wingman Elite,wingman elite|wingman|小帮手精英,mp_weapon_wingman_n,default
+RE-45,re45|re-45,mp_weapon_semipistol,pistol
+Charge Rifle,charge rifle|电笔,mp_weapon_defender,antititan
+Thunderbolt,thunderbolt|雷电球,mp_weapon_arc_launcher,antititan
+Archer,archer|射手飞弹,mp_weapon_rocket_launcher,antititan
