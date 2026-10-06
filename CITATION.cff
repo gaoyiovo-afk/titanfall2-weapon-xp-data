@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset or calculator, please cite this repository."
+title: "Titanfall 2 Weapon XP / Generation Progression Data"
+type: dataset
+authors:
+  - name: "gaoyiovo-afk"
+repository-code: "https://github.com/gaoyiovo-afk/titanfall2-weapon-xp-data"
+url: "https://github.com/gaoyiovo-afk/titanfall2-weapon-xp-data"
+license: MIT
+version: 1.0.0
+date-released: 2026-10-06
+keywords:
+  - Titanfall 2
+  - weapon XP
+  - Northstar
+  - progression data
+  - RPAK
